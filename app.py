@@ -100,7 +100,7 @@ img {
 """, unsafe_allow_html=True)
 
 st.markdown(
-    "<div class='main-title'>🎯 AI Interview Analyzer</div>",
+    "<div class='main-title'>Interview Mirror</div>",
     unsafe_allow_html=True
 )
 
